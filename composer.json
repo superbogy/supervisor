@@ -36,7 +36,8 @@
         "php": ">=5.5",
         "symfony/process": "^2.5"
     },
-
+    "minimum-stability": "dev",
+    "prefer-stable": false,
     "require-dev": {
         "hamcrest/hamcrest-php": "^1.2",
         "mockery/mockery": "^0.9",
